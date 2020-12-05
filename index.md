@@ -8,7 +8,7 @@ Currently l1ttleO is the only one actually working on projects.
 Feel free to start contributing to our repos!
 
 # Members
-Admins: l1ttleO
+Admins: **l1ttleO**
 
 # Other contributors that are worthy of mentioning
 (currently none)
