@@ -13,5 +13,8 @@ Admins: **l1ttleO**
 # Other contributors that are worthy of mentioning
 (currently none)
 
+# Projects
+Pearl Exploit Fixer: **https://github.com/l1ttle-org/PearlExploitFixer**
+
 # Plans for future
 * Make a ban system plugin
