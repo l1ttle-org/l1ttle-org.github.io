@@ -11,10 +11,10 @@ Feel free to start contributing to our repos!
 Admins: **l1ttleO**
 
 # Other contributors that are worthy of mentioning
-(currently none)
+Outside collaborator on BanSystem: **ItsAlvinThePro**
 
 # Projects
 **[Pearl Exploit Fixer](https://github.com/l1ttle-org/PearlExploitFixer)**
+**(WIP) [BanSystem](https://github.com/l1ttle-org/BanSystem)**
 
 # Plans for future
-* Make a ban system plugin
