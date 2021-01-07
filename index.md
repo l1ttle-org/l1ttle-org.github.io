@@ -14,7 +14,7 @@ Admins: **l1ttleO**
 Outside collaborator on BanSystem: **ItsAlvinThePro**
 
 # Projects
-**[Pearl Exploit Fixer](https://github.com/l1ttle-org/PearlExploitFixer)**
+**[Pearl Exploit Fixer](https://github.com/l1ttle-org/PearlExploitFixer)**  
 **(WIP) [BanSystem](https://github.com/l1ttle-org/BanSystem)**
 
 # Plans for future
