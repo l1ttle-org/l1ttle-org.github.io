@@ -8,7 +8,7 @@ Currently l1ttleO is the only one actually working on projects.
 Feel free to start contributing to our repos!
 
 # Members
-Admins: [l1ttleO](https://github.com/l1ttleO)
+Admins: [l1ttleO](https://github.com/l1ttleO)  
 Triage: [ItsAlvinThePro](https://github.com/ItsAlvinThePro)
 
 # Projects 
